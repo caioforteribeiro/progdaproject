@@ -73,6 +73,12 @@ Specific requirements for running the code, such as additional modules to import
 <br>
 
 ***
+## A quick overview of the code
+After a basic exploratory analysis of the real-world data, our code starts by defining our 3 independent variables (`cigs_per_day`, `chol`, and `bmi`) as arrays of random numbers following specified distributions. The module `numpy.random` was used throughout the program for this. We used a non-uniform distribution for simplified discrete values and custom probabilities for `cigs_per_day`, a normal distribution rounded to  integers for `chol`, and a truncated normal distribution for `bmi` (using `scipy.stats.truncnorm.rvs()`).
+
+Based on these 3 arrays, we created a dataframe using `pandas.DataFrame()` and added a new column ('Risk') with categorical values that depended on different combinations of values for the other columns, using `np.select()`. Plots were used only to clarify certain aspects of real-world data or to check if we were in the right track with the simulated data.
+
+***
 ## Credits
 * If you're interested in the Framingham Heart Study, their [webpage](https://framinghamheartstudy.org/) has the most up-to-date information about the third round of analysis that is currently on-going. All collected data for the study is available on request.
 
