@@ -1,3 +1,4 @@
+![image](https://pharmaphorum.com/wp-content/uploads/2016/07/Technology-digital-data-600x340.jpg)
 # Simulating risk factors for heart disease
 ## Final project: Programming for Data Analysis
 
@@ -50,6 +51,8 @@ To run the Jupyter notebook, you will first need to:
    pip install jupyterlab
    ```
    * Installing Anaconda, which comes with Jupyter preinstalled. 
+
+Specific requirements for running the code, such as additional modules to import, are in the notebook itself.
 
 <br>
 
