@@ -70,6 +70,8 @@ Specific requirements for running the code, such as additional modules to import
 7. If you have an issue while running the notebook, try restarting the Kernel:
    * In the **Run** tab from the top-left menu, click on **Restart Kernel and Run All Cells**.
 
+**Note:** For a static view of the notebook, you can use [this link](https://nbviewer.org/github/caioforteribeiro/progdaproject/blob/main/simulation.ipynb) to nbviewer.
+
 <br>
 
 ***
