@@ -50,7 +50,7 @@ To run the Jupyter notebook, you will first need to:
    ```
    pip install jupyterlab
    ```
-   * Installing Anaconda, which comes with Jupyter preinstalled. 
+   * Installing [Anaconda](https://docs.anaconda.com/anaconda/install/), which comes with Jupyter pre-installed. 
 
 Specific requirements for running the code, such as additional modules to import, are in the notebook itself.
 
@@ -67,19 +67,31 @@ Specific requirements for running the code, such as additional modules to import
 4. The Jupyter application should open in your browser. If it doesn't, click [here](https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html) for troubleshooting.
 5. Navigate through the folders and double-click the file `simulation.ipynb`.
 6. In the **Run** tab from the top-left menu, click on **Run All Cells**.
-7. If you have an issue while running the notebook, try Restarting the Kernel:
+7. If you have an issue while running the notebook, try restarting the Kernel:
    * In the **Run** tab from the top-left menu, click on **Restart Kernel and Run All Cells**.
+
+<br>
+
+***
+## Credits
+* If you're interested in the Framingham Heart Study, their [webpage](https://framinghamheartstudy.org/) has the most up-to-date information about the third round of analysis that is currently on-going. All collected data for the study is available on request.
+
+* For an exploratory analysis of the data, check out [this page](https://www.kaggle.com/lauriandwu/machine-learning-heart-disease-framingham) on Kaggle. It was heavily used as inspiration for this project.
 
 <br>
 
 ***
 ## References
 
-[1]:  The World Health Organization (2020). [*The top 10 causes of death*](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death). Access on 30 Dez, 2021.
+[1]:  The World Health Organization (2020). [*The top 10 causes of death*](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death). Access on 30 Dec, 2021.
 
-[2]:  Mahmood, S. S., Levy, D., Vasan, R. S., & Wang, T. J. (2014). The Framingham Heart Study and the epidemiology of cardiovascular disease: a historical perspective. *Lancet* (London, England), 383(9921), 999–1008. https://doi.org/10.1016/S0140-6736(13)61752-3. Available on: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4159698/. Access on 30 Dez, 2021.
+[2]:  Mahmood, S. S., Levy, D., Vasan, R. S., & Wang, T. J. (2014). The Framingham Heart Study and the epidemiology of cardiovascular disease: a historical perspective. *Lancet* (London, England), 383(9921), 999–1008. https://doi.org/10.1016/S0140-6736(13)61752-3. Available on: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4159698/. Access on 30 Dec, 2021.
 
-[3]: Gallestey, J. Bacallao (2016, April 22). Framingham Heart Study. *Encyclopedia Britannica*. https://www.britannica.com/event/Framingham-Heart-Studay. Access on 30 Dez, 2021.
+[3]: Gallestey, J. Bacallao (2016, April 22). Framingham Heart Study. *Encyclopedia Britannica*. https://www.britannica.com/event/Framingham-Heart-Studay. Access on 30 Dec, 2021.
 
+<br>
 
+***
+## Contact
+Feel free to get in touch about this project by sending me an [email](mailto:G00398262@gmit.ie) with your suggestions. 
 
