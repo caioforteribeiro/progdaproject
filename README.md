@@ -1,4 +1,4 @@
-![image](https://pharmaphorum.com/wp-content/uploads/2016/07/Technology-digital-data-600x340.jpg)
+![NumPy logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png)
 # Simulating risk factors for heart disease
 ## Final project: Programming for Data Analysis
 
@@ -8,7 +8,7 @@
 ***
 ## About this repository
 
-This repository contains one Jupyter notebook (`simulation.ipynb`) and related data required to run the notebook, as part of the assessment for the module *Programming for Data Analysis* at GMIT (Winter 2021-22). All code was written in Python ([v. 3.8.8](https://www.python.org/downloads/release/python-388/), realeased on Feb 19, 2021).
+This repository contains one Jupyter notebook ([`simulation.ipynb`](https://github.com/caioforteribeiro/progdaproject/blob/main/simulation.ipynb)) and related data required to run the notebook, as part of the assessment for the module *Programming for Data Analysis* at GMIT (Winter 2021-22). All code was written in Python ([v. 3.8.8](https://www.python.org/downloads/release/python-388/), realeased on Feb 19, 2021).
 
 <br>
 
@@ -70,7 +70,9 @@ Specific requirements for running the code, such as additional modules to import
 7. If you have an issue while running the notebook, try restarting the Kernel:
    * In the **Run** tab from the top-left menu, click on **Restart Kernel and Run All Cells**.
 
-**Note:** For a static view of the notebook, you can use [this link](https://nbviewer.org/github/caioforteribeiro/progdaproject/blob/main/simulation.ipynb) to nbviewer.
+Alternatively, you can click the button below for a static view of the notebook in [nbviewer](https://nbviewer.org/):
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/caioforteribeiro/progdaproject/blob/main/simulation.ipynb).
 
 <br>
 
