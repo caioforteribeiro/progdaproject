@@ -72,7 +72,7 @@ Specific requirements for running the code, such as additional modules to import
 
 Alternatively, you can click the button below for a static view of the notebook in [nbviewer](https://nbviewer.org/):
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/caioforteribeiro/progdaproject/blob/main/simulation.ipynb).
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/caioforteribeiro/progdaproject/blob/main/simulation.ipynb)
 
 <br>
 
