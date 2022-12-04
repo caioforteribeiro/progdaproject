@@ -8,7 +8,7 @@
 ***
 ## About this repository
 
-This repository contains one Jupyter notebook ([`simulation.ipynb`](https://github.com/caioforteribeiro/progdaproject/blob/main/simulation.ipynb)) and related data required to run the notebook, as part of the assessment for the module *Programming for Data Analysis* at GMIT (Winter 2021-22). All code was written in Python ([v. 3.8.8](https://www.python.org/downloads/release/python-388/), realeased on Feb 19, 2021).
+This repository contains one Jupyter notebook ([`simulation.ipynb`](https://github.com/caioforteribeiro/progdaproject/blob/main/simulation.ipynb)) and related data required to run the notebook, as part of the assessment for the module *Programming for Data Analysis* at GMIT (Winter 2022-23). All code was written in Python ([v. 3.8.8](https://www.python.org/downloads/release/python-388/), realeased on Feb 19, 2021).
 
 <br>
 
@@ -93,11 +93,11 @@ Based on these 3 arrays, we created a dataframe using `pandas.DataFrame()` and a
 ***
 ## References
 
-[1]:  The World Health Organization (2020). [*The top 10 causes of death*](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death). Access on 30 Dec, 2021.
+[1]:  The World Health Organization (2020). [*The top 10 causes of death*](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death). Access on 4 Dec, 2022.
 
-[2]:  Mahmood, S. S., Levy, D., Vasan, R. S., & Wang, T. J. (2014). The Framingham Heart Study and the epidemiology of cardiovascular disease: a historical perspective. *Lancet* (London, England), 383(9921), 999–1008. https://doi.org/10.1016/S0140-6736(13)61752-3. Available on: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4159698/. Access on 30 Dec, 2021.
+[2]:  Mahmood, S. S., Levy, D., Vasan, R. S., & Wang, T. J. (2014). The Framingham Heart Study and the epidemiology of cardiovascular disease: a historical perspective. *Lancet* (London, England), 383(9921), 999–1008. https://doi.org/10.1016/S0140-6736(13)61752-3. Available on: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4159698/. Access on 4 Dec, 2021.
 
-[3]: Gallestey, J. Bacallao (2016, April 22). Framingham Heart Study. *Encyclopedia Britannica*. https://www.britannica.com/event/Framingham-Heart-Studay. Access on 30 Dec, 2021.
+[3]: Gallestey, J. Bacallao (2016, April 22). Framingham Heart Study. *Encyclopedia Britannica*. https://www.britannica.com/event/Framingham-Heart-Studay. Access on 4 Dec, 2021.
 
 <br>
 
